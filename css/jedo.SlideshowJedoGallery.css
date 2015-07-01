@@ -1,0 +1,52 @@
+@CHARSET "UTF-8";
+
+.outterslideshowjedogallery {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	
+}
+
+.slideshowjedogallery {
+	position: absolute;
+	border:1px solid #008080;
+	background-color: rgba(0,0,0,1.0);
+	overflow: hidden;
+}
+
+.slideshowjedogallery > .slide {
+	position: absolute;
+	display: none;
+}
+
+.jedothumbnails {
+	position: absolute;
+	height: 100px;
+	width: 100%;
+	padding: 0px;
+	z-index: 2;
+	display: block;
+	background: transparent;
+}
+
+.jedothumbnails > .thumbnails_main {
+	position: absolute;
+	height: 100%;
+	overflow: hidden;
+}
+
+.thumbnails_main > .thumbnails_image {
+	
+	height: 100px;
+	width: 100px;
+}
+
+.jedothumbnails > .thumbnails_button {
+	position: absolute;
+	height: 100%;
+	width: 30px;
+	padding-left: 3px;
+	padding-right: 3px;
+}
+
+
