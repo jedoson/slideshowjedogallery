@@ -29,6 +29,4 @@ different images, settings and styles for each one of them.
 
 == Links ==
 
-*   [Slideshow project board](https://trello.com/board/slideshow-plugin-wordpress/506311260cc04591010463c2)
-*   [GitHub](https://github.com/Boonstra/Slideshow)
-*   [Prepros](http://alphapixels.com/prepros/)
+*   [GitHub](https://github.com/jedoson/slideshowjedogallery)
